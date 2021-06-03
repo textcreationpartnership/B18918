@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The character of the beaux, in five parts ... to which is added The character of a Jacobite / written by a young gentleman.</title>
+            <author>Young gentleman.</author>
+         </titleStmt>
+         <extent>Approx. 29KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B18918</idno><idno type="EEBO-CITATION">18847482</idno>
+  <idno type="VID">205403</idno>
+  <idno type="EEBO-PROQUEST">2248579917</idno>
+  
+            <idno type="STC">Wing C2025</idno>
+            <idno type="OCLC">18847482</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B18918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 205403)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1664:15)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The character of the beaux, in five parts ... to which is added The character of a Jacobite / written by a young gentleman.</title>
+                  <author>Young gentleman.</author>
+               </titleStmt>
+               <extent>[6], 9-46 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London printed :</pubPlace>
+                  <date>1696.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"I. Of a nice affected beaux. II. A hector, or bully beaux. III. A country beaux. IV. A city beaux. V. A spruce beaux, alias, a lawyers clerk."</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Dandies --  England --  Anecdotes.</term>
+               <term type="topical_term">Jacobites --  Anecdotes.</term>
+               <term type="topical_term">Characters and characteristics.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-02 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen </label>Sampled and proofread </change>
+         <change>
+            <date>2014-03 </date>
+            <label>Kate Allen</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:205403:1"/>
+            <p>THE CHARACTER OF THE BEAUX,</p>
+            <p>In Five Parts.</p>
+            <list>
+               <item>I. <hi>Of a Nice Affected</hi> Beaux.</item>
+               <item>II. <hi>A Hector, or Bully</hi> Beaux.</item>
+               <item>III. <hi>A Country</hi> Beaux.</item>
+               <item>IV. <hi>A City</hi> Beaux.</item>
+               <item>V. <hi>A Spruce</hi> Beaux, <hi>alias, a Lawyers Clerk.</hi>
+               </item>
+            </list>
+            <p>To which is Added: <hi>The Character</hi> OF A JACOBITE.</p>
+            <p>
+               <hi>Written by a Young Gentleman.</hi>
+            </p>
+            <p>
+               <hi>London:</hi> Printed in the year, 1696.</p>
+         </div>
+         <div type="preface">
+            <pb facs="tcp:205403:2"/>
+            <pb facs="tcp:205403:2"/>
+            <head>THE PREFACE.</head>
+            <p>THE World of late being grown so censo<g ref="char:EOLhyphen"/>rious, and Fools that can but spell their Names, pre<g ref="char:EOLhyphen"/>tending to correct other Mens Works; an Author now dares not publish any Book, though never so small, without a Preface, to de<g ref="char:EOLhyphen"/>fend himself against the Carpings and Contumelies of the malitious Town.</p>
+            <p>Supposing therefore my Enemies may be as numerous as another's,
+<pb facs="tcp:205403:3"/>and that Fellows, whose Pride have got the ascendant of their lit<g ref="char:EOLhyphen"/>tle Reason, will be picking holes, not out of any Enmity they bear me, but only by contemning my Works, boast of their own Ʋnder<g ref="char:EOLhyphen"/>standings; I hope my prefixing a Preface to this Six-penny business, will not be thought irrequisite.</p>
+            <p>Some Persons may wonder, why of all things, I chose the <hi>Beaux</hi> to write the Character of; when 'tis grown so common a Subject: True, 'tis so, and therefore the more difficult to write upon; yet, as it is common, 'tis copious; and notwithstanding it hath been so of<g ref="char:EOLhyphen"/>ten handled, and so much hath been said in ridicule of those tame
+<pb facs="tcp:205403:3"/>unthinking Animals, an ingenious Person may still find new matter. Nay, upon second thoughts, 'tis now become a new Subject; for there's as much difference between a <hi>Beaux</hi> of <hi>86,</hi> and a <hi>Beaux</hi> of <hi>96,</hi> as between a Prim spruce City Apprentice, (with his Hair turn'd up in buckles, to wait upon Mi<g ref="char:EOLhyphen"/>striss <hi>Susan</hi> the Chamber-Maid, to the Farthing <hi>Pye-House</hi> on an <hi>Easter Holy-day,</hi>) and a sense<g ref="char:EOLhyphen"/>less Dancing-Master, that affects all the Tawdriness imaginable. What in that Age was an extra<g ref="char:EOLhyphen"/>vigant <hi>Beaux,</hi> is in this accounted a silly diminutive <hi>Coxcomb,</hi> to such a height of Folly and Foppery are Men arriv'd.</p>
+            <pb facs="tcp:205403:4"/>
+            <p>The Character of the <hi>Beaux</hi> I am flatter'd may please, that of a <hi>Jacobite</hi> I hope will please, and pass without a malitious Censure, unless from those who are concern'd in the <hi>Satyr:</hi> Yet, if dispis'd, will admit of a good Apology, it being writ <hi>ex Tempore,</hi> and al<g ref="char:EOLhyphen"/>together at the request of the Book seller, who complain'd, that the scarcity of Coin had made People <hi>avarus;</hi> and that where a Man laid out Six-pence, he was desi<g ref="char:EOLhyphen"/>rous of having much for his Money.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="9" facs="tcp:205403:4"/>
+            <head>The Character of the <hi>Beaus.</hi>
+            </head>
+            <p>THE <hi>French</hi> being Na<g ref="char:EOLhyphen"/>turally a sort of <hi>Fini<g ref="char:EOLhyphen"/>cal, Fantaslick, Ridicu<g ref="char:EOLhyphen"/>lous Creatures,</hi> are always very busie in Emulating one another's <hi>Fooleries,</hi> but particularly to ex<g ref="char:EOLhyphen"/>ceed each other in <hi>Dress;</hi> and their chiefest Endeavours are, who shall be most <hi>Foppish,</hi> or run away with the Fame of ha<g ref="char:EOLhyphen"/>ving the profoundest Capacity for a <hi>Dancing-Master,</hi> or a <hi>Va<g ref="char:EOLhyphen"/>let de Chambre:</hi> And many of our Nation being not so wise as
+<pb n="10" facs="tcp:205403:5"/>we might expect, are very am<g ref="char:EOLhyphen"/>bitious of imitating their <hi>Fashi<g ref="char:EOLhyphen"/>ons,</hi> and have attributed to them<g ref="char:EOLhyphen"/>selves the Name of <hi>Beau,</hi> which is Originally <hi>French,</hi> and in our Language signifies <hi>Fine,</hi> or <hi>Hand<g ref="char:EOLhyphen"/>some.</hi>
+            </p>
+            <p>Since therefore <hi>Virtue</hi> is so much Deprest, and <hi>Vice</hi> and <hi>Folly</hi> Countenanc'd, I thought it not un-necessary to give to the World a Description of a <hi>Beau,</hi> that Men of Sense may laugh at 'em; and those senseless Animals, if they are not quite stupid and irrecoverable, may leave their <hi>Fopperies,</hi> and become Men, who are now but <hi>Monsters.</hi>
+            </p>
+            <pb n="11" facs="tcp:205403:5"/>
+            <p>And as they are of various kinds, I shall first Commence with what we call a <hi>Nice, Affect<g ref="char:EOLhyphen"/>ed Beau:</hi> One, who from Ten till Twelve, receives Visits in Bed, where he lyes most magni<g ref="char:EOLhyphen"/>ficently with a long Perriwig neatly laid over the Sheets, ex<g ref="char:EOLhyphen"/>travigantly powder'd, and ex<g ref="char:EOLhyphen"/>actly curl'd; when the Clock has struct Twelve, that his two hours are expir'd, he begins to rise, and with much ado, about Three is drest, which we must allow to be but a very small time, considering how many lit<g ref="char:EOLhyphen"/>tle phidling insignificant things he has to adorn himself withal; as perfuming his Cloaths, using
+<pb n="12" facs="tcp:205403:6"/>Washes to make his hands white, beautifying his Face, putting on two or three little Patches, soak<g ref="char:EOLhyphen"/>ing his Handkerchief in Rose<g ref="char:EOLhyphen"/>water, powdering his Linnen, which he pretends so stink of Sope, he's not able to bear it; and chiefly tying on his Cravat, which perhaps is done and un<g ref="char:EOLhyphen"/>done a dozen times, before it sets with an Air according to his Mind. Between Three and Four he Dines, and his constant Food is either a <hi>Chicken,</hi> a <hi>Rah<g ref="char:EOLhyphen"/>bet,</hi> a <hi>Partridge,</hi> or for variety, a little fresh <hi>Fish; Mutton, Beef, Pork,</hi> or <hi>Veal,</hi> being too strong for his nice Stomach, and sitter for the grosser and more robust
+<pb n="13" facs="tcp:205403:6"/>sort of <hi>Mortals,</hi> as he styles 'em. About Four he bids his Dog call a Chair, and away he mar<g ref="char:EOLhyphen"/>ches to the <hi>Chocalate-House,</hi> where he affirms himself to be a Wit; and is frequently chringing into Company, though he knows himself not in the least accepta<g ref="char:EOLhyphen"/>ble; continually interrupting others more serious Discourse, to force out his dry Jests, which are always <hi>Foolish,</hi> if not down<g ref="char:EOLhyphen"/>right <hi>Nonsense,</hi> and never move any body but his own <hi>insipid Self.</hi> But his chiefest aim is, to converse with the <hi>Poets,</hi> and be of their Society; to be familiar with 'em, and (if he can) a <hi>Cronie;</hi> that when occasion serves,
+<pb n="14" facs="tcp:205403:7"/>he may make use of their Brains for a <hi>Song,</hi> or a <hi>Copy of Verses</hi> on such a Ladies Beauty, which he swears (when conversant with the Ladies) to be his own. By that time he has spent an hour at <hi>Will</hi>'s, or the <hi>Chocolate-House,</hi> 'tis almost time for the <hi>Play;</hi> and having put himself in Order, ad<g ref="char:EOLhyphen"/>justed his <hi>Cravat</hi> and <hi>Wig,</hi> and daub'd his Face with <hi>Snuff,</hi> he very soberly enters the House; first in one side Box, then in t'other; next in the <hi>Pit,</hi> and sometimes in the <hi>Galleries,</hi> that the <hi>Vulgar</hi> sort may as well behold and admire the <hi>Magnificence</hi> of his <hi>Apparel,</hi> as those of <hi>Quality:</hi> Before the <hi>Play</hi>'s half done,
+<pb n="15" facs="tcp:205403:7"/>whip he's at t'other House, and being in the <hi>Pit,</hi> between every <hi>Act</hi> leaps upon the Benches, to show his <hi>Shape,</hi> his <hi>Leg,</hi> his <hi>Scarlet Stockings,</hi> his <hi>Meen</hi> and <hi>Air;</hi> then out comes a <hi>Snuff-Box,</hi> as big as an <hi>Alderman</hi>'s <hi>To<g ref="char:EOLhyphen"/>bacco-Box,</hi> lin'd with a bawdy Picture, and the Hand's very gracefully lifted to the Nose, to shew the length of its Fingers, its whiteness, its delicacy, and the Diamond Ring; and ha<g ref="char:EOLhyphen"/>ving play'd a few Monkey Tricks, the Musick ceases, and the Gentleman descends, bowing this way, that way, and t'other way, that the Ladies in the Boxes may take notice of him,
+<pb n="16" facs="tcp:205403:8"/>and think him a Person of <hi>Qua<g ref="char:EOLhyphen"/>lity,</hi> known and respected by every body: Then, while the <hi>Play</hi>'s Acting, he turns his Back to the Stage, as disregarding such <hi>Nonsense;</hi> and crying, <hi>Damme,</hi> here's a dam'd Play; then speak<g ref="char:EOLhyphen"/>ing to a <hi>Masque, Madam,</hi> says he, <hi>How can your Ladayship sit it?</hi> Why, Sir, <hi>says she?</hi> Me<g ref="char:EOLhyphen"/>thinks 'tis very tolerable: <hi>O ged Madam! no, the Devil take me if I cou'dn't write a more to<g ref="char:EOLhyphen"/>lerable one</hi> ex Tempore: But if she still persists to commend it, and will needs confute him, as O dear Sir! I'm sure you wrong your Judgment now, this <hi>Scene</hi> is very pretty, and witty; then
+<pb n="17" facs="tcp:205403:8"/>the <hi>Fop</hi> complies a little, and; with a simple Grimace, He! He! <hi>Why faith,</hi> Madam, <hi>this is in<g ref="char:EOLhyphen"/>different, though if such a thing had been out or in, 'twou'd ha'been much better;</hi> still criticising, and pretending to amend what he does not understand: When an Hour or two's spent there, he goes to the <hi>Park,</hi> and, creeping to a Lady, <hi>O</hi> Madam, <hi>I'm al<g ref="char:EOLhyphen"/>most suffocated; stop my Vitals! the Smoak of</hi> London <hi>is unsufferable: How does your Ladyship find it?</hi> yet, not permitting her to An<g ref="char:EOLhyphen"/>swer; <hi>O</hi> Madam, <hi>renounce me, if I am not ready to expire; your Ladyship's most humble Servant:</hi> Then the same Stuff to another,
+<pb n="18" facs="tcp:205403:9"/>always endeavouring to speak Fine, and Unintelli<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ibly; and, not being Master of his own Lan<g ref="char:EOLhyphen"/>guage, intermixes it with Bom<g ref="char:EOLhyphen"/>bast <hi>Latine,</hi> and scraps of <hi>French,</hi> that the Ladies may take him for a Man of Parts, and a true <hi>Lin<g ref="char:EOLhyphen"/>guist:</hi> When he has pretty well wearied himself with that Di<g ref="char:EOLhyphen"/>version, he walks to some La<g ref="char:EOLhyphen"/>dy's Lodgings in <hi>Pell-Mell,</hi> or St. <hi>James</hi>'s <hi>Square;</hi> where he spends three or four Hours at <hi>Ombre,</hi> or <hi>Tick<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ack,</hi> and so Home again.</p>
+            <p>Another sort of <hi>Beau,</hi> is what we generally style a <hi>Hector,</hi> or <hi>Bully-Beau:</hi> One, who having
+<pb n="19" facs="tcp:205403:9"/>no Estate to subsist on, is sorc'd to live by his Wits; yet is a Man of <hi>Mode,</hi> and strives to be soon in every new Fashion, as well as the former, though in e<g ref="char:EOLhyphen"/>very respect, not so extravagant<g ref="char:EOLhyphen"/>ly Tawdry, and Affected; most of these, though they'd be ac<g ref="char:EOLhyphen"/>counted Men of Fortune, and Reputation, Persons of great Honour, Vertue, Merit, and Esteem, yet are glad to Pimp and Sharp about the Town to get a Penny; this Man, by his o<g ref="char:EOLhyphen"/>ver Industry, having a little good Breeding, or some other taking Quality about him, insinuates himself into some Countess's Fa<g ref="char:EOLhyphen"/>vour, who having a Husband
+<pb n="20" facs="tcp:205403:10"/>not capable of doing her Rea<g ref="char:EOLhyphen"/>son, secretly entertains him for her <hi>Stallion;</hi> that Man turns down-right <hi>Pimp,</hi> and under<g ref="char:EOLhyphen"/>takes to help Men to <hi>Whores,</hi> and <hi>Whores</hi> to <hi>Cullys;</hi> and if he can but procure a pretty <hi>Wench</hi> for an old Letcherous <hi>Al<g ref="char:EOLhyphen"/>derman,</hi> it may be worth to him sometimes, at least, a hundred <hi>Guineas;</hi> then he may Swear, be Drunk, scowre the Streets, knock down Watch-men, and break Windows with as much Autho<g ref="char:EOLhyphen"/>rity as e're a Lord in the King<g ref="char:EOLhyphen"/>dom; t'other Man being a more subtle, crafty Rogue, slily watch<g ref="char:EOLhyphen"/>es his Hits, and hires Men to give him Intelligence of what
+<pb n="21" facs="tcp:205403:10"/>raw Heirs, who have more Mo<g ref="char:EOLhyphen"/>ney than Wit, are lately come of Age, and how he shall get acquainted with 'em; so, by his false Dice, and other juggling Tricks, he finds an opportunity to make his Fortune out of theirs: These are a kind of <hi>Bul<g ref="char:EOLhyphen"/>ly-Beaux;</hi> though a <hi>Hector</hi> or <hi>Bully Beau,</hi> in general, is one who bilks Coaches, runs from <hi>Taverns</hi> without paying the Reckoning, forces into <hi>Play-Houses</hi> gratis; and, though a damn'd Coward, drawing his Sword, and quarrelling with e<g ref="char:EOLhyphen"/>very Body; but to be sure, either in the <hi>Park,</hi> at the <hi>Play-House,</hi> or some other open populous
+<pb n="22" facs="tcp:205403:11"/>place, where he knows he shall be parted: And, having consum'd great part of his Money at <hi>
+                  <gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dy-Houses,</hi> and <hi>Tennis-Courts,</hi> sneaks in at Night at the <hi>Royal-Oake-Lottery</hi> in <hi>Suf<g ref="char:EOLhyphen"/>folk street,</hi> lays two or three Six<g ref="char:EOLhyphen"/>pences upon Quarters, and by that means spunges a Supper.</p>
+            <p>A Third sort is, a <hi>Country-Beau:</hi> One, who having been bred up in Ignorance, and from his Infancy led a retir'd Coun<g ref="char:EOLhyphen"/>try Life, and consequently un<g ref="char:EOLhyphen"/>acquainted with the Tricks and Cheats of the Town, comes to an Estate before he is ripe of Understanding: No sooner the
+<pb n="23" facs="tcp:205403:11"/>Old Dad's laid in the Ground, but the young Squire, consider<g ref="char:EOLhyphen"/>ing the greatness of his Estate, that he's at his own disposal, may do what he will, say what he will, and go where he will, without be<g ref="char:EOLhyphen"/>ing check'd, or reprov'd by any body, has an itch to be Ramb<g ref="char:EOLhyphen"/>ling; and having wash'd his Face with Milk and Water, put on his best Leather-Breeches, ty'd at Knees with red Taffety, his new blew Jacket, and his grey Coat, with Buttons no bigger than Nutmegs, and smugg'd himself up very handsomly, takes his best Nag, and Gallops up to <hi>London;</hi> where he is very kindly receiv'd by the <hi>Bully-Beaux,</hi>
+               <pb n="24" facs="tcp:205403:12"/>who laid wait for him before hand: He return'd their Complements to the best of his Ability, and is over joy'd at their Friendship; thinking it no Scandal, but rather an Honour, to correspond with such fine well drest Gentlemen, little imagining their Policy; they embrac'd him with all the Love and Candor imaginable; and say, they desire no greater Feli<g ref="char:EOLhyphen"/>city, than to be esteem'd his Friends. First, they carry him to <hi>Westminster</hi> to see the <hi>Tombs,</hi> then on board the <hi>Folly,</hi> next to <hi>Spring-Garden,</hi> and to <hi>Billings<g ref="char:EOLhyphen"/>gate</hi> to eat <hi>Oysters,</hi> Treating him very highly, and not permitting
+<pb n="25" facs="tcp:205403:12"/>him to pay a Farthing; some<g ref="char:EOLhyphen"/>time after he goes to a <hi>Play,</hi> and is mightily taken with that Sport; but seeing the <hi>Beaus</hi> there so gaily drest, he begins to think his Cloaths not so fine and fa<g ref="char:EOLhyphen"/>shionable, as they shou'd be, and is very ambitious of equalling 'ern, knowing his Means suffici<g ref="char:EOLhyphen"/>ent to afford it; the Bully <hi>Beaus,</hi> his true hearty Friends, and Comrades, supply him with all Necessaries, teach him a little Breeding, buy him a noble long Wigg, and all still at their own Costs; he is amaz'd at their Ci<g ref="char:EOLhyphen"/>vility, and knows not how to Recompence 'em: When he has revel'd away three or four weeks,
+<pb n="26" facs="tcp:205403:13"/>and is become intimate, and ve<g ref="char:EOLhyphen"/>ry familiar; one of his trusty Companions makes a motion to take a Game at Hazard, for E<g ref="char:EOLhyphen"/>venings being long, they know not how to waste their Time; he is pleas'd at the motion, but ob<g ref="char:EOLhyphen"/>jects, he does not understand the Came; they are very ready and willing, being a particular Friend, to instruct him; so ha<g ref="char:EOLhyphen"/>ving him once safe in their chutch<g ref="char:EOLhyphen"/>es, make his Pocket pay for all the Treats, and an unaccounta<g ref="char:EOLhyphen"/>ble Summ of Money besides; my Country <hi>Beau</hi> begins to smell a Rat, and has an Inclination to return home; they are mighti<g ref="char:EOLhyphen"/>ly disturb'd, and griev'd at it,
+<pb n="27" facs="tcp:205403:13"/>sorry he would leave 'em, and hop'd they shou'd soon have him again; but the Spark sinding out their deceit, and ha<g ref="char:EOLhyphen"/>ving sold his best Gelding, Mort<g ref="char:EOLhyphen"/>gag'd his Estate, and it's like got the Pox by the Whores those Fellows brought him to, fairly and soberly trots down again, upon a Carriers Horse, repenting of his Folly, and re<g ref="char:EOLhyphen"/>solving to do Pennance for his past Luxury.</p>
+            <p>A Fourth sort, is a City <hi>Beau,</hi> the greatest part of which, dwell in <hi>Pater-Noster-Rom;</hi> I mean the Mercers Apprentices, and some of the Masters; Fellows, who,
+<pb n="28" facs="tcp:205403:14"/>when any new Gawdy Silk is invented, and design'd for a Fashion; to be sure make them<g ref="char:EOLhyphen"/>selves Wastcoats of it first, that Folks may take example by them, and they may be the first in the Mode; to which they commonly add, a black Coat and a pair of white Stockings; but above all, a light colour'd bob Wigg, very well powder'd; being thus accouter'd, more like Actors then any thing else; they stand half a dozen hours at the Door, with their Coats o<g ref="char:EOLhyphen"/>pen, that Folks passing by, may see their fine Wastcoats; and when a Gentleman buys any Silk, they cry, pray Sir let me
+<pb n="29" facs="tcp:205403:14"/>advise you to this Piece, 'tis the prettiest you ever saw; pray Sir, take my word for't, there's not such a Silk again, in the whole <hi>Row;</hi> it ha'n't been made above these three days, and I so admir'd it, that you see I have made my self a Wastcoat on't: But I shall pass by those Who<g ref="char:EOLhyphen"/>ring Fellows, as not worth my speaking of; <hi>Whoring said I!</hi> Ay! <hi>Whoring, Lewd, Vitious, De<g ref="char:EOLhyphen"/>bauch'd, Drunken Fellows.</hi> Are they so? No wonder then the Sempstresses flock thither in such Numbers.</p>
+            <p>A Fifth sort, is a Spruce <hi>Beau,</hi> otherwise call'd a Lawyers
+<pb n="30" facs="tcp:205403:15"/>Clark: One, who, when his Ma<g ref="char:EOLhyphen"/>ster, on a <hi>Saturday</hi> Night, is slipt to <hi>Epsom,</hi> to take a mouthful of Air, and play a Game at <hi>Bagg Gammon</hi> with the Parson, dresses himself to the best advantage, powders his Hair, and his Coat to the middle of his Back; and putting on his white Gloves, a Patch on his right Cheek, and the Brass hilted Sword, which he, and his Fellow Clark, <hi>Dash,</hi> joyn'd for last <hi>Bartholomew</hi> Fair; marches up <hi>Fleet-street,</hi> with his clean white Handkerchief hang<g ref="char:EOLhyphen"/>ing half way out of his Pocket, that he may look careless for<g ref="char:EOLhyphen"/>sooth; and by the way, meets with one of his old Comrades,
+<pb n="31" facs="tcp:205403:15"/>who cries, How now <hi>Jack-Scri<g ref="char:EOLhyphen"/>ble?</hi> Where a pox are you go<g ref="char:EOLhyphen"/>ing so Sparkish? I vow you are a compleat <hi>Beau,</hi> a mear <hi>Beau</hi> as I live; the Fool waggs his Head, smiles, and sets his Cravat right, and is extreamly pleas'd you afford him the Title; part<g ref="char:EOLhyphen"/>ing with his Friend, he steers his course to the Play; where he is commonly seen in the 18 <hi>d.</hi> Gallery, at the two last Acts: These are what sort of <hi>Beaus</hi> I can at present think off; when I see what Reception these meet with, I shall furnish the Town with some more, for such Mon<g ref="char:EOLhyphen"/>sters are plentiful enough.</p>
+         </div>
+         <div type="half_title">
+            <pb facs="tcp:205403:16"/>
+            <pb facs="tcp:205403:16"/>
+            <p>THE Character OF A JACOBITE.</p>
+         </div>
+         <div type="text">
+            <pb facs="tcp:205403:17"/>
+            <pb n="35" facs="tcp:205403:17"/>
+            <head>The Character of a Jacobite.</head>
+            <p>THE Laws of this Land be<g ref="char:EOLhyphen"/>ing so well Established by his present Majesty, King <hi>William;</hi> the Liberties we enjoy under him being so many, and the Love and Affecti<g ref="char:EOLhyphen"/>on which our Sovereign bears us being so great, 'tis almost a Miracle that any Person can be a <hi>Jacobite,</hi> especially one who resides in this Kingdom; where, by all Men of <hi>Sense, Religion,</hi> or <hi>Ʋnderstanding,</hi> he knows himself so much contemn'd and dispis'd.</p>
+            <p>Yet as there are different <hi>Sectaries,</hi> both reasonable and foolish, we must allow <hi>Jacobitism</hi> to be one, but cer<g ref="char:EOLhyphen"/>tainly the most foolish in Nature; and I shall endeavour to expose it to
+<pb n="36" facs="tcp:205403:18"/>the best of my Ability, both <hi>Edisica<g ref="char:EOLhyphen"/>tion,</hi> and <hi>Diversion;</hi> First then for <hi>Edification.</hi>
+            </p>
+            <p>There are a <hi>Factions, Disloyal, Se<g ref="char:EOLhyphen"/>ditious</hi> sort of People, who have scat<g ref="char:EOLhyphen"/>ter'd themselves up and down this Nation, to insinuate into Mens Minds a good Opinion of the late King <hi>James,</hi> and wou'd fain per<g ref="char:EOLhyphen"/>swade 'em, that he was unlawfully dethron'd; and that King <hi>William</hi> has no Right to the Crown, but is a Usurper, which is on both sides ap<g ref="char:EOLhyphen"/>parently false; and every sensible and juditious Man must needs own, <hi>First,</hi> That King <hi>James</hi> was uncapable of Ruling in a <hi>Protestant</hi> Realm, having apostasiz'd to <hi>Popery:</hi> And then, that his now Majesty coming to our Suc<g ref="char:EOLhyphen"/>cour, endangering his Life for our Sakes, and assisting us to recover our Liberties, when we were at the brink of Ruine, is <hi>Rightfully,</hi> and <hi>Lawful<g ref="char:EOLhyphen"/>ly</hi>
+               <pb n="37" facs="tcp:205403:18"/>adjudg'd King; and 'tis but his Merit: For who better deserves a Crown, and to have Authority over a People, than he who delivers 'em from <hi>Slavery,</hi> restores 'em to their <hi>Rights</hi> and <hi>Customs,</hi> preserves their <hi>Religion?</hi> And by his unparallel'd Valour, subdues all their Enemies. Though by their leaves, our now <hi>Monarch,</hi> and our late <hi>Queen,</hi> were no Usurpers; neither did they desire the Crown, but were sollicited to ac<g ref="char:EOLhyphen"/>cept it; though if they had, 'twas nothing but their <hi>Real, True, undoubt<g ref="char:EOLhyphen"/>ed,</hi> and <hi>undeniable Due,</hi> the Queen being Eldest Daughter to King <hi>James,</hi> and next Heir, notwithstanding that upstart <hi>Brat,</hi> the pretended Prince of <hi>Wales.</hi> And though King <hi>James</hi> is not dead in Person, yet he is dead in Law, the Decrees of <hi>Parliament</hi> ha<g ref="char:EOLhyphen"/>ving render'd him unable to act; and therefore 'tis but requisite that another should succeed him as tho'
+<pb n="38" facs="tcp:205403:19"/>he were actual dead; especially when he ran away, and left the Throne va<g ref="char:EOLhyphen"/>cant. Yet these <hi>Jacobites,</hi> who with so much Vigour stand up for their <hi>Old King,</hi> and strive to vindicate his Cause, pretend to be <hi>Protestants;</hi> and say, that though their <hi>Religion</hi> is dearer to 'em than their Lives, yet their Consciences cannot permit King <hi>James,</hi> though a Papist, to be Abdicated Stupidity! that any Man who professes <hi>Protestantism,</hi> can love a Popish Ruler: Nay, who was not only a Papist, a Promoter of Popery, but an Enemy to the <hi>Protestant Re<g ref="char:EOLhyphen"/>ligion;</hi> as his <hi>Actions,</hi> his suffering so many <hi>Priests</hi> and <hi>Jesuits,</hi> his Erecting such a number of <hi>Mass-houses,</hi> and his cruel and inhumane Usage to those who were averse to his Opini<g ref="char:EOLhyphen"/>on, and Institutions, plainly demon<g ref="char:EOLhyphen"/>strates. Rediculous absurdity! and can be compar'd to nothing but this, that a Man who cries, I love my <hi>Li<g ref="char:EOLhyphen"/>berty,</hi>
+               <pb n="39" facs="tcp:205403:19"/>my <hi>Pleasure,</hi> my <hi>Freedom,</hi> my <hi>Ease,</hi> and yet adore him who molests me, blocks me up, persecutes me, and unjustly puts me in Prison. No, no, they are no <hi>Protestants; Protestant</hi> is a Fallacy, a bare Name, they are <hi>Fergusonians,</hi> that is, any thing, <hi>Pro<g ref="char:EOLhyphen"/>testant, Presbyterian, Papist, Mahome<g ref="char:EOLhyphen"/>tan, Independant, Anabaptist,</hi> of any Religion whatsoever, with which they may cloak and smother their <hi>Villanies, Treasons,</hi> and <hi>malitious In<g ref="char:EOLhyphen"/>tentions;</hi> and by being of so many <hi>Religions,</hi> manifestly show, they are of no <hi>Religion.</hi> These are a sort of Seditious busie Rascals that are so prejuditial to a Government, and 'tis but his Majesties too much <hi>Cle<g ref="char:EOLhyphen"/>mency,</hi> that brings 'em to such a height of Impudence.</p>
+            <p>Another sort of <hi>Jacobites</hi> are those, who live by the late King <hi>James,</hi> and depend altogether on his Court;
+<pb n="40" facs="tcp:205403:20"/>so, for their Livelyhoods sake, were forc'd to depart the Kingdom with him, though the greatest part left their Hearts behind 'em: These we ought rather to pity, than punish, being, many of 'em, antiently <hi>Pro<g ref="char:EOLhyphen"/>testants;</hi> and by him, and his <hi>Priests,</hi> seduc'd into the Papal Opinion: Yet notwithstanding their great esteem for their King, which was only for their private Ends, they have found their Sallery in <hi>France</hi> so small, and so ill paid, that most of 'em have begg'd leave to return to their Na<g ref="char:EOLhyphen"/>tive Country; and I question not, but in a short time, he'll be quite de<g ref="char:EOLhyphen"/>stitute of Attendants.</p>
+            <p>A third sort of <hi>Jacobites</hi> are those, who are not content to rail against the <hi>King</hi> and <hi>Government,</hi> to Com<g ref="char:EOLhyphen"/>pose, Print, and Publish their scurri<g ref="char:EOLhyphen"/>lous, false, and malitious <hi>Libels</hi> and <hi>Pamphlets;</hi> but endeavour to deprive
+<pb n="41" facs="tcp:205403:20"/>our Monarch of his Life, as the late <hi>Horrid Plot</hi> can testifie; being a too dreadful Example of their intended Villany. But why do they so? To what end wou'd they commit such Outrages? Why! they tell you, because the King admits not of their Religion. What is their Religion? a <hi>quere</hi> very difficult to be answer'd. What Religion suffers such Inhuma<g ref="char:EOLhyphen"/>nities? What Religion countenances such Barbarities, to murther Kings? Nay, and in cool Blood! Subvert a State, and enslave a People? None. Why then do they act thus? Why! For Lucre. They are <hi>Ruffins, Bar<g ref="char:EOLhyphen"/>barians, Atheists,</hi> who believe there will be no Judgment, so fear no Pu<g ref="char:EOLhyphen"/>nishment, but will perpetrate any Villany for a Reward. This sort of <hi>Jacobites</hi> is the most pernicious to the State, of all; and ought carefully to be rooted out, that the King may Live, and be Happy; the Subjects
+<pb n="42" facs="tcp:205403:21"/>Prosper; and <hi>Virtue, Piety,</hi> and <hi>Ho<g ref="char:EOLhyphen"/>nesty,</hi> florish amongst us, and endure to Perpetuity. But now for a little Diversion.</p>
+            <p>A Fourth sort of <hi>Jacobites,</hi> are the <hi>Beaus;</hi> Ha! ha! ha! they <hi>Jacobites▪</hi> What those Asses, who mind nothing but <hi>Witt, Dressing,</hi> and going to <hi>Plays:</hi> those capering Jack-puddings, who throughout the Year don't read a <hi>Gazette?</hi> Prithee, Why are they <hi>Ja<g ref="char:EOLhyphen"/>cobites?</hi> why! because 'tis the fashi<g ref="char:EOLhyphen"/>on; the Ladies at t'other end of the Town are generally <hi>Jacobites;</hi> so they are under an Obligation of be<g ref="char:EOLhyphen"/>ing so too, lest they disoblige 'em; for if the Ladies discard 'em, they may go hang themselves, their Fe<g ref="char:EOLhyphen"/>licity altogether depending on their Smiles, and corresponding with 'em; being a Crew of Effeminate, Self-admiring Fools, not fit for the So<g ref="char:EOLhyphen"/>ciety of Men: Nay, truly a Man of
+<pb n="43" facs="tcp:205403:21"/>Sense wou'd scorn to be seen in a <hi>Beaus</hi> Company, 'twould be a scan<g ref="char:EOLhyphen"/>dal to him to converse with such Apes, Wax Babies, who's gre<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>test Ambition is to have the gaudiest Sword-string, or the best powder'd Wigg. Monkeys who aim at no<g ref="char:EOLhyphen"/>thing but Affectation, and smart Re<g ref="char:EOLhyphen"/>partees, and value themselves chiefly upon their Cloaths. Silly, insigni<g ref="char:EOLhyphen"/>ficant Fools, who are always com<g ref="char:EOLhyphen"/>posing Lampoons, and striving to ridicule other Men, little consider<g ref="char:EOLhyphen"/>ing an insipid <hi>Lampoon,</hi> or <hi>Panygerick</hi> upon another, is a more severe Li<g ref="char:EOLhyphen"/>bel upon themselves. The Age is quite another thing now, then what it was in old Times: In antient days the Philosophers were esteem'd Wise and Learned, for having long Beards. Men and Women were ador'd like petty Gods and Koddesses, for wear<g ref="char:EOLhyphen"/>ing gay Silks, Gold, and great Stocks of Jewels: But now the only way to
+<pb n="44" facs="tcp:205403:22"/>know a Fool, is by his fine Garb. A modest sober Man minds his inte<g ref="char:EOLhyphen"/>riour parts, more then his exteriour; yet goes neatly, mixt with a little Gentility, though not Extravagancy: No powder'd Coat, Buttons like Ten<g ref="char:EOLhyphen"/>nis-balls; a patch on his Nose, broad Silver Loops, like an Actor in the <hi>Play-House;</hi> and when he walks, sink and cope, as though he danc'd the Corant or Minuet: And speaking, cryes, <hi>Dam me,</hi> at every word. What ridiculous Monsters are these! Fel<g ref="char:EOLhyphen"/>lows that never pass the Streets, but attract the Eyes of more People, then a <hi>Merry Andrew</hi> upon a <hi>Mountebank Stage.</hi> Yet, though they see they are laugh'd at, are not daunted in the least, but take a pride to frequent the most populous Places, where they know they shall be most stair'd at. But to return to my former Di<g ref="char:EOLhyphen"/>scourse; the Women I say, aiming at that modish Name, <hi>Jacobite,</hi> en<g ref="char:EOLhyphen"/>joyn
+<pb n="45" facs="tcp:205403:22"/>the <hi>Beaus</hi> to do the like; and when they are in Company with 'em, will often start up this questi<g ref="char:EOLhyphen"/>on; as, well Sir <hi>Novelty,</hi> Who are you for, King <hi>James,</hi> or King <hi>Wil<g ref="char:EOLhyphen"/>liam?</hi> He having so much Sense to know the Lady's for <hi>James,</hi> placing him first, crys, O God, Madam! I'm a <hi>Jacobite.</hi> Ay, indeed Sir, says she, I'm o'your Mind; the <hi>Williamites</hi> are such slovenly Fellows,— O! Pox take 'em, Madam, nauseous Puppies, I loath the Name of 'em; I'm a true <hi>Jacobite.</hi> Stop my Vitals! King <hi>James</hi> has promis'd me a Collonels Commission to secure his Throne for him, when he comes over. But credit me, if <hi>James</hi> provides no bet<g ref="char:EOLhyphen"/>ter Collonels and Captains than they, to assist him in the recovery of his Throne, he'll never come over, nor have occasion for those Nincom<g ref="char:EOLhyphen"/>poops to secure it for him. But these Fops, who are such violent
+<pb n="46" facs="tcp:205403:23"/>exclaimers against King <hi>William,</hi> are as good <hi>Williamites,</hi> when the Com<g ref="char:EOLhyphen"/>pany they are with are so, as the best; they are always conformable to the Society they are in, lest they should occasion a quarrel: For, tho' they are confounded Hectors, yet are as confounded Cowards; and though two <hi>Beaus,</hi> when they meet, are commonly quarreling and damn<g ref="char:EOLhyphen"/>ing, yet one's as fraid to draw his Sword, as the t'other's afraid he shou'd: But 'tis time to conclude, tho' the Subject is copious enough for a Sheet more. If this please, it may perhaps excite me to some other such-like Undertaking.</p>
+            <pb facs="tcp:205403:23"/>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
